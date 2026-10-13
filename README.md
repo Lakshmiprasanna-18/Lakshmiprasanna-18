@@ -1,16 +1,19 @@
-## Hi there 👋
+Writing
 
-<!--
-**Lakshmiprasanna-18/Lakshmiprasanna-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi, I'm Your Name!
+🐍 Aspiring Python Full Stack Developer | Fresher
+💜 Passionate about Python programming and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💙 Learning to build modern, responsive web applications.
+
+🌱 Improving my skills through practice and projects.
+
+🚀 My goal is to become a skilled Python Full Stack Developer.
+
+💻 Technical Skills
+Programming: Python
+Frontend: HTML, CSS, JavaScript
+Backend: Django, Flask
+Database: MySQL, SQLite
+Tools: Git, GitHub, VS Code
